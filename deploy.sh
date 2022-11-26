@@ -1,1 +1,2 @@
-#this is a deployment code
+#this is a deployment cod
+deploy to staging
